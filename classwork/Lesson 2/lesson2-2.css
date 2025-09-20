@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Single+Ink:wght@100..900&family=Bitcount+Ink&family=Jacquarda+Bastarda+9&display=swap');
+.bitcount-ink-{
+    font-family: "Bitcount Ink", system-ui;
+    font-weight: 400;
+}
+.bitcount-grid-single-ink-400{
+    font-family: "Bitcount Grid Single Ink", system-ui;
+}
