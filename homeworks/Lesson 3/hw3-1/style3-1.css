@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    margin: 2%;
+}
+header{
+    height: 60vh;
+    background-color: cornflowerblue;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2% 0;
+}
+section{
+    height: 50vh;
+    width: 32%;
+    background-color: #1e489a;
+}
+footer{
+    height: 60vh;
+    background-color: cornflowerblue;
+}
+header, section, footer{
+    color: white;
+    font-size: 37px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Noto Sans", sans-serif;;
+}
