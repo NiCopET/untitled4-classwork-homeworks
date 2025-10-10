@@ -1,0 +1,8 @@
+video{
+    width: 70%;
+}
+iframe{
+    width: 50vw;
+    height: 50vw;
+    border: 5px solid red;
+}
