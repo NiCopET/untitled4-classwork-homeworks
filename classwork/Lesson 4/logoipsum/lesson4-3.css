@@ -100,3 +100,75 @@ header nav a{
     align-items: center;
     margin: 212px 0 160px 0;
 }
+/*---------------------------brands__button-----------------------------------*/
+.brands__button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.brands__button div h2{
+    color: #19191B;
+    font-family: "DM Sans", sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 57px; /* 114% */
+    letter-spacing: -1.563px;
+    margin: 30px 0 30px 166px;
+}
+.brands__button div p{
+    color: #696871;
+    font-family: "Mulish", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 150% */
+    letter-spacing: -0.625px;
+    margin: 30px 0 30px 166px;
+}
+.brands__button div a{
+    color: #5454D4;
+    font-family: "DM Sans", sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.531px;
+    margin: 30px 0 30px 166px;
+}
+/*---------------------------metrics-----------------------------------*/
+.metrics{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.metrics div h2{
+    color: #19191B;
+    font-family: "DM Sans", sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 57px; /* 114% */
+    letter-spacing: -1.563px;
+    margin: 30px 0 30px 0;
+}
+.metrics div p{
+    color: #696871;
+    font-family: "Mulish", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 150% */
+    letter-spacing: -0.625px;
+    margin: 30px 208px 30px 0;
+}
+.metrics div a{
+    color: #5454D4;
+    font-family: "DM Sans", sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.531px;
+    margin: 30px 0 30px 0;
+}
