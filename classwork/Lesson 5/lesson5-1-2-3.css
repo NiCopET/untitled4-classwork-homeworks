@@ -1,0 +1,27 @@
+.pink-box{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    margin: 100px auto 0 auto;
+    animation: Clon 5s linear infinite alternate ;
+}
+
+/*@keyframes Clon {*/
+/*    from{*/
+/*        !*transform:  translate(-600px, -600px) ;*!*/
+/*        transform: scale(1.5) rotate(80deg);*/
+/*    }*/
+/*    to{*/
+/*        !*transform: rotate(0deg);*!*/
+/*        background-color: rebeccapurple;*/
+/*    }*/
+/*}*/
+@keyframes Clon {
+    from{
+        transform:  translate(-300px, -300px) ;
+    }
+    to{
+        /*transform: rotate(0deg);*/
+        background-color: red;
+    }
+}
