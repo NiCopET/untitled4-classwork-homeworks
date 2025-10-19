@@ -5,8 +5,8 @@ body{
     align-items: center;
 }
 .square{
-    height: 600px;
-    width: 600px;
+    height: 200px;
+    width: 200px;
     border-radius: 10%;
     border-top: 40px solid rebeccapurple;
     border-right: 40px solid blanchedalmond;
