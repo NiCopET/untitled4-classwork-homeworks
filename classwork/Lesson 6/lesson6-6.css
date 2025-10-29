@@ -1,0 +1,31 @@
+label{
+    display: block;
+    margin-top: 10px;
+}
+form sup{
+    color: red;
+}
+textarea{
+    resize: none;
+    width: 150px;
+}
+.form-registration{
+    border: 3px solid #3737e8;
+    width: 30%;
+    border-radius: 20px;
+    padding: 50px;
+}
+input[type="text"]{
+    background: lightcyan;
+    border: 2px solid blue;
+    border-radius: 2px;
+    color: cornflowerblue;
+    font-family: sans-serif;
+}
+input[type="text"]::placeholder{
+    color: black;
+}
+input[type="text"]:focus{
+    outline: 2px solid #3a3adc;
+    border: none;
+}
